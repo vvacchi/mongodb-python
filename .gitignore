@@ -1,2 +1,5 @@
 # Ignorar carpeta data
 data/
+
+# Ignorar carpeta __pycache__
+scripts/__pycache__
